@@ -9,8 +9,8 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WinformThemes")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyDescription("Control library demo")]
+[assembly: AssemblyConfiguration("uint32labs")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("WinformThemes")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
