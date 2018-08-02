@@ -40,7 +40,7 @@ Licensed under the Apache License 2.0.
 * __DioTextBox:__ I don't recommend you use this control since it lacks the textbox functionality but looks almost similar to it. If you do use it, you can access all of the base textbox properties through the InternalTextBox property.
 
 # How to use
-__Note:__ Both these methods work for c# and vb.net
+__Note:__ Both of these methods work for c# and vb.net
 
 ### Cloning project (preferred way)
 1. Download the controls project source for the controls you need (Dio and/or MentQ)
